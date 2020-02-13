@@ -1,0 +1,4 @@
+#broadcast adress
+ifconfig | grep 'broadcast' | cut -d " " -f6
+#indentifiy the IP address wich are part of the same subnet
+arp -a
