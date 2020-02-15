@@ -1,0 +1,1 @@
+cat passwd | grep home | cut -d ':' -f 1

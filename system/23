@@ -1,0 +1,3 @@
+Graphic: When the system ask put login and  password 
+Ssh: open terminal and write command ssh <username on virtual M>@<ip> -p <port usually 22> 
+and then put password
